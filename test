@@ -1,0 +1,48 @@
+# 🚀 Copilot Large Test Document
+
+This file is designed to test GitHub Copilot's ability to **fetch, parse, and handle** large markdown content from a repository.
+
+---
+
+## 📘 Overview
+
+Welcome to the Copilot Large Test File. This file contains various types of content including code samples, long texts, structured data, and markdown formatting.
+
+The goal is to simulate a documentation-style repository structure where Copilot might need to understand and suggest completions from long files.
+
+---
+
+## 🧾 Table of Contents
+
+1. Introduction
+2. Features
+3. Sample Code
+4. Long Form Content
+5. Tables
+6. JSON Data
+7. YAML Config
+8. Final Notes
+
+---
+
+## 🧩 Features
+
+- ✅ Supports markdown parsing
+- ✅ Simulates real documentation
+- ✅ Includes large text blocks
+- ✅ Has multiple formats
+- ✅ Tests performance and fetch handling
+
+---
+
+## 💻 Sample Code
+
+### JavaScript
+
+```js
+function calculateSum(arr) {
+    return arr.reduce((sum, val) => sum + val, 0);
+}
+
+const numbers = [1, 2, 3, 4, 5];
+console.log("Sum:", calculateSum(numbers));
